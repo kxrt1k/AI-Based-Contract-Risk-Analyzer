@@ -40,3 +40,4 @@ CUAD dataset: https://www.atticusprojectai.org/cuad/ . Review its terms and the 
 Add authentication, TLS, rate limits, upload limits, retention/deletion policies, and privacy-safe logging. Review false positives with qualified legal professionals. The risk score is a transparent heuristic, not a probability of loss. OCR for scanned PDFs is not included yet.
 =======
 # AI-Based-Contract-Risk-Analyzer
+>>>>>>> 56eeb60e02ea82227756bcbb91341544f070af96
