@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contract Risk Analyzer Pro
 
 Frontend-agnostic contract screening starter: text/PDF/DOCX ingestion, explainable baseline rules, clause checks, FastAPI endpoints, and a LegalBERT fine-tuning pipeline.
@@ -37,3 +38,5 @@ CUAD dataset: https://www.atticusprojectai.org/cuad/ . Review its terms and the 
 
 ## Before public deployment
 Add authentication, TLS, rate limits, upload limits, retention/deletion policies, and privacy-safe logging. Review false positives with qualified legal professionals. The risk score is a transparent heuristic, not a probability of loss. OCR for scanned PDFs is not included yet.
+=======
+# AI-Based-Contract-Risk-Analyzer
