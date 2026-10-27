@@ -1,0 +1,10 @@
+streamlit
+requests
+fastapi
+uvicorn
+python-multipart
+pymupdf
+docx2txt
+pydantic
+transformers
+torch
